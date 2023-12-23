@@ -1,2 +1,2 @@
-# final-Ex1
+# final Project
 individual exercises
